@@ -1,5 +1,7 @@
 # SLCSP
 
+[![Build Status](https://travis-ci.org/wojno/slcsp.svg?branch=master)](https://travis-ci.org/wojno/slcsp)
+
 ## Problem
 
 You have been asked to determine the second lowest cost silver plan (SLCSP) for
