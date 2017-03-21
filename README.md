@@ -1,6 +1,8 @@
 # SLCSP
 
 [![Build Status](https://travis-ci.org/wojno/slcsp.svg?branch=master)](https://travis-ci.org/wojno/slcsp)
+[![Code Climate](https://codeclimate.com/github/wojno/slcsp/badges/gpa.svg)](https://codeclimate.com/github/wojno/slcsp)
+[![Issue Count](https://codeclimate.com/github/wojno/slcsp/badges/issue_count.svg)](https://codeclimate.com/github/wojno/slcsp)
 
 ## Problem
 
